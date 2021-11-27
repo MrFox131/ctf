@@ -1,1 +1,1 @@
-{info_obj.__init__.__globals__["app"]}
+{info_obj.__init__.__globals__["config"]}
